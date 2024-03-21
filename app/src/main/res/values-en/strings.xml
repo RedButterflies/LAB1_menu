@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LAB1_menu</string>
+    <string name="liczba_ocen">Number of grades:</string>
+    <string name="liczba_ocen_edit_hint">Enter grade number(5 to 15)</string>
+    <string name="oceny">Grades</string>
+    <string name="nazwisko_edit_hint">Enter your last name</string>
+    <string name="nazwisko">Last name:</string>
+    <string name="imie_edit_hint">Enter your first name</string>
+    <string name="imie">First name:</string>
+    <string name="imie_auto_fill">Joanna</string>
+    <string name="nazwisko_auto_fill">Smith</string>
+    <string name="liczba_ocen_musi_zawiera_si_mi_dzy_5_a_15">The number of grades must be a value between 5 and 15</string>
+    <string name="pole_nazwisko_nie_mo_e_by_puste">The LAST NAME field cannot be empty</string>
+    <string name="pole_imie_nie_mo_e_by_puste">The NAME field cannot be empty</string>
+    <string name="przycisk_oceny_zosta_naci_ni_ty">The GRADES button has been pressed</string>
+</resources>

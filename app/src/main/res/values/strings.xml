@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LAB1_menu</string>
+    <string name="liczba_ocen">Liczba ocen:</string>
+    <string name="liczba_ocen_edit_hint">Wpisz liczbe ocen(5-15)</string>
+    <string name="oceny">Oceny</string>
+    <string name="nazwisko_edit_hint">Wpisz nazwisko</string>
+    <string name="nazwisko">Nazwisko:</string>
+    <string name="imie_edit_hint">Wpisz imie</string>
+    <string name="imie">Imie:</string>
+    <string name="imie_auto_fill">Joanna</string>
+    <string name="nazwisko_auto_fill">Kowalska</string>
+    <string name="liczba_ocen_musi_zawiera_si_mi_dzy_5_a_15">Liczba ocen musi zawierać się między 5 a 15</string>
+    <string name="pole_nazwisko_nie_mo_e_by_puste">Pole NAZWISKO nie może być puste</string>
+    <string name="pole_imie_nie_mo_e_by_puste">Pole IMIE nie może być puste</string>
+    <string name="przycisk_oceny_zosta_naci_ni_ty">Przycisk OCENY został naciśnięty</string>
+</resources>
